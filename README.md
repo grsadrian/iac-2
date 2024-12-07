@@ -1,4 +1,4 @@
-# Script de infraestrutura como códico (IaC) feito durante a Formação Linux da [DIO](https://www.dio.me)
+# Script de infraestrutura como código (IaC) feito durante a Formação Linux da [DIO](https://www.dio.me)
 
 ## Funcionalidades
 * Atualização automática dos repositórios *apt* (disponível apenas para distribuições baseadas em **Debian** e **Ubuntu**)
